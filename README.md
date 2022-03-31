@@ -1,2 +1,2 @@
 Live link:
-https://github.com/mahmudyassin17/html-01
+https://mahmudyassin17.github.io/html-01/
